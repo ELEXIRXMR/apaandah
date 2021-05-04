@@ -2,4 +2,4 @@
 
 include_once("induk.html");
 
->
+?>
